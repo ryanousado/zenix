@@ -1,0 +1,17 @@
+discord.py>=2.4.0
+google-api-python-client>=2.0.0
+aiohttp
+aiofiles>=23.0.0
+python-dotenv>=0.21.0
+sympy
+google-auth
+orjson
+nest-asyncio
+audioop-lts
+PyNaCl
+yt-dlp
+Flask
+gspread
+oauth2client
+pymongo
+motor
