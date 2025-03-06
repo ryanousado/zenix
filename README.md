@@ -25,3 +25,4 @@ Junte-se à comunidade e receba suporte diretamente: [**Clique aqui**](https://d
 ### 📌 Ainda estou aprendendo!
 Esse é meu primeiro projeto, então o código pode estar meio bagunçado. Se encontrar algum problema ou tiver sugestões, utilize os comandos `/reportar_erro` ou `/suggest` dentro do Discord. Obrigado por usar o Zenix! 🚀
 
+caso a pasta data nao criar automatico crie uma 
